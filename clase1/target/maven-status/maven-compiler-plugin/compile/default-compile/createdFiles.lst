@@ -1,0 +1,9 @@
+edu\it\components\Utiles.class
+edu\it\ejemplo\EjemploPersist.class
+edu\it\ejemplos\EjemploPersist.class
+edu\it\entities\Usuario.class
+edu\it\ejemplos\EjemploJPA.class
+edu\it\ejemplo\EjemploJPA.class
+edu\it\entities\TipoDeUsuario.class
+edu\it\SeresNocturnos.class
+edu\it\components\ConectorJPA.class
